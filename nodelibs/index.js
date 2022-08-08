@@ -1,0 +1,9 @@
+exports.buffer = require.resolve('buffer');
+exports.events = require.resolve('events');
+exports.fs = null;
+exports.http = require.resolve('stream-http');
+exports.https = require.resolve('https-browserify');
+exports.stream = require.resolve('readable-stream');
+exports.url = require.resolve('url');
+exports.util = require.resolve('util');
+exports.vm = null;

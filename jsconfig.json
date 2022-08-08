@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react-native",
+    "baseUrl": ".",
+    "paths": {
+      "@": ["src"],
+      "@assets": ["assets"],
+      "@data": ["data"]
+    },
+    "allowJs": true
+  }
+}
